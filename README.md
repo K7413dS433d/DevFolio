@@ -14,7 +14,7 @@ DevFolio is a fully responsive portfolio website that showcases different sectio
 
 ## Live Demo
 
-You can check out the live version of the website here: [DevFolio Live Demo](#)
+You can check out the live version of the website here: [DevFolio Live Demo](https://dev-folio-inky.vercel.app/)
 
 ## Video
 
