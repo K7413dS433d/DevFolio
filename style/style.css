@@ -181,6 +181,10 @@ body > section.section3.container.bg-white.py-5 > div > div > div > p::before {
   transform: translateX(-20px);
 }
 
+#services > div > div > div:hover {
+  cursor: pointer;
+}
+
 .section3 .circle {
   width: 120px;
   height: 120px;
@@ -226,6 +230,10 @@ body
 
 .section5 > div .card {
   box-shadow: -5px 21px 37px -25px rgba(0, 0, 0, 0.2);
+}
+
+#work > div > div > div {
+  cursor: pointer;
 }
 
 .section5 > div .card img {
@@ -326,6 +334,20 @@ body
   position: absolute;
   bottom: -10px;
   left: 0;
+}
+#contact > div > div > div > div > div > div > ul:nth-child(3) > li {
+  cursor: pointer;
+}
+#contact
+  > div
+  > div
+  > div:nth-child(2)
+  > div
+  > div:nth-child(2)
+  > div
+  > ul.list-unstyled.d-flex.flex-column.gap-2
+  > li:nth-child(3) {
+  cursor: pointer;
 }
 
 .circle-list {
