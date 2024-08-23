@@ -8,7 +8,6 @@ DevFolio is a fully responsive portfolio website that showcases different sectio
 
 - **HTML5**
 - **CSS3**
-- **JavaScript**
 - **Bootstrap**
 - **Font Awesome**
 
@@ -20,4 +19,4 @@ You can check out the live version of the website here: [DevFolio Live Demo](htt
 
 A walkthrough of the DevFolio website can be found here:
 
-[Insert Video Link]
+https://github.com/user-attachments/assets/79ca8729-e796-4392-a294-02ee0f759eaf
